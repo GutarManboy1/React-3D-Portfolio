@@ -8,7 +8,7 @@ const Hero = () => {
           Hey, I am Glenn <span className="waving-hand">✌️</span>a Software
           Engineer from N.Y. <span className="waving-hand">🗽</span>{" "}
         </p>
-        <p className="hero_tag text-gray_gradient text-sm">Making Awesome Things</p>
+        <p className="hero_tag text-gray_gradient text-sm">Making Awesome Things!</p>
       </div>
     </section>
   );
