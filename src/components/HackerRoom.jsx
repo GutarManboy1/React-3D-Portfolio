@@ -11,7 +11,7 @@ import { useGLTF } from '@react-three/drei'
 
 const HackerRoom = (props) => {
 
-  const { nodes, materials } = useGLTF('/scene.gltf')
+  const { nodes, materials } = useGLTF('/hacker-room.glb')
 
   return (
     <group {...props} dispose={null}>
