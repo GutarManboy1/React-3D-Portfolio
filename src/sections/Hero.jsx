@@ -14,7 +14,7 @@ const Hero = () => {
           <span className="waving-hand">🎌</span>{" "}
         </p>
         <p className="hero_tag text-gray_gradient text-sm">
-          Making Awesome Things!!
+          Making Awesome Things!!!
         </p>
       </div>
       <div className="w-full h-full absolute inset-0">
