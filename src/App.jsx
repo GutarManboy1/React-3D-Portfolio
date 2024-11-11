@@ -1,7 +1,7 @@
 
 import Navbar from './Sections/Navbar'
 import Hero from './Sections/Hero'
-import HackerRoom from './components/HackerRoom'
+// import HackerRoom from './components/HackerRoom'
 
 const App = () => {
   return (
