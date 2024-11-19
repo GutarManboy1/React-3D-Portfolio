@@ -132,7 +132,7 @@ export const navLinks = [
       ],
     },
     {
-      title: 'CarePulse - Health Management System',
+      title: 'Hatano',
       desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
       subdesc:
         'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
@@ -171,7 +171,7 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Horizon - Online Banking Platform',
+      title: 'Swinging Market',
       desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
       subdesc:
         'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
@@ -208,7 +208,7 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Imaginify - AI Photo Manipulation App',
+      title: 'Barber King',
       desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
       subdesc:
         'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
